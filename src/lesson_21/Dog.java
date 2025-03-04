@@ -25,7 +25,8 @@ public class Dog {
         System.out.println("Ia begy!");
         weight -= 2;
         System.out.println("Ves posle probeski: " + weight);
-        System.out.println("\nnnnnnnnnnnnnnnnn");
+        System.out.println("\nnnnnnnnnnnnnn");
+
     }
 
 
