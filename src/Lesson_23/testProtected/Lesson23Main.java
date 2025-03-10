@@ -1,4 +1,4 @@
-package testProtected;
+package Lesson_23.testProtected;
 
 import Lesson_23.Cat;
 
